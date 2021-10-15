@@ -1,6 +1,6 @@
 # UM-Two-factor-authentication
 
-This code snippet is integrating the “WP 2FA – Two-factor Authentication for WordPress” plugin to Ultimate Member.
+This code snippet is integrating the “WP 2FA – Two-factor Authentication for WordPress” plugin with Ultimate Member.
 
 https://wordpress.org/plugins/wp-2fa/
 
